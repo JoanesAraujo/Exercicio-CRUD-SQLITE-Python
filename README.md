@@ -1,39 +1,31 @@
-## Banco de dados sqlite3 CRUD(create, read, update and delete) whith Python
+# Banco de dados sqlite3 CRUD(create, read, update and delete) whith Python
 
 _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_
 
 
-CREATE:
-
-------
+## CREATE:
 
 <img align="center" width="600" img src=https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagens_crud/salvandonobanco_vscode.png>
 
 
-
-READ:
-
-------
+---
+## READ:
 
 <img align="center" width="600" img src=https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagens_crud/lendonobanco.png>
 
 
-
-UPDATE:
-
-------
+---
+## UPDATE:
 
 <img align="center" width="600" img src=https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagens_crud/udate_antes_nobanco.png>
 <img align="center" width="600" img src=https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagens_crud/udate_depois_nobanco.png>
 
 
-
-DELETE:
-
-------
+---
+## DELETE:
 
 <img align="center" width="600" img src=https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagens_crud/delete_antes_nobanco.png>
 <img align="center" width="600" img src=https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagens_crud/delete_depois_nobanco.png>
 
-
+---
 
